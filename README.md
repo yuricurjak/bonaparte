@@ -9,7 +9,7 @@ Desafio técnico Bonaparte
 
 Necessário ter o **node** instalado na máquina, preferencialmente com a versão **12.18.3** .      
 Configure as variáveis de ambiente.       
-Colocar os arquivos title.basics e title.ratings como data.tsv e data2.tsv respectivamente, no diretório ./   
+Colocar os arquivos title.basics e title.ratings como data.tsv e data2.tsv respectivamente, no diretório ./backend
  Para popular o banco de dados:   
  `$ npm run populate`    
 
